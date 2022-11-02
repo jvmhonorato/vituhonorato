@@ -1,4 +1,5 @@
-### Hi there, I'm João Victor Marques Honorato 
+<!-- ### Hi there, I'm João Victor Marques Honorato  -->
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=FFA500&vCenter=true&width=600&height=70&lines=Hi+there+,+i+am+Victor+Honorato;+Welcome+to+My+Profile!;Javascript+development+student;Aspiring+FullStack+Developer+in+Javascript!;Friend.)](https://git.io/typing-svg)
 
 - 😄 Pronouns: Ele/Dele
 - 🌱 I’m currently learning Typescript | Nest.JS | Firebase
