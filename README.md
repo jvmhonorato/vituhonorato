@@ -42,9 +42,8 @@ Here are some ideas to get you started:
 <div align="center"  >
 
  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-marques-honorato-90ab59a1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" terget="_blank"> <a/>
-<a href="https://www.instagram.com/_jvmh_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" terget="_blank"> <a/>
-<a href="https://www.facebook.com/victor.honorato.5" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" terget="_blank"> <a/>
-<a href="https://github.com/vituhonorato" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" terget="_blank"> <a/>
+
+
 
 
 
