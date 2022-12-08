@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 
 -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/vituhonorato/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vituhonorato&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/_>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituhonorato&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="jvmh-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
