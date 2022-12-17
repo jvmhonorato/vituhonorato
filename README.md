@@ -5,7 +5,7 @@
 
 
 - 😄 Pronouns: Ele/Dele
-- 🌱 I’m currently learning Typescript | Nest.JS | Firebase
+- 🌱 I’m currently learning Typescript | Nest.JS | Java | Angular
 - 👯 I’m looking to collaborate with any company that is willing to hire me
 
 <!--
@@ -32,12 +32,14 @@ Here are some ideas to get you started:
 <img align="center" alt="jvmh-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="jvmh-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img align="center" alt="jvmh-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="center" alt="jvmh-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+ <img align="center" alt="jvmh-nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 <img align="center" alt="jvmh-tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="center" alt="jvmh-nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 <img align="center" alt="jvmh-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="jvmh-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
- <img align="center" alt="jvmh-mongo" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="jvmh-mongo" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="center" alt="jvmh-mongo" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="center" alt="jvmh-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
  
 
 
