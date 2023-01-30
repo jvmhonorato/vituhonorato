@@ -4,7 +4,7 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=FFA500&vCenter=true&width=600&height=70&lines=Hi+there+,+i+am+Victor+Honorato;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: he/him
 - 🌱 I’m currently learning Typescript | Nest.JS | Java | Angular
 - 👯 I’m looking to collaborate with any company that is willing to hire me
 
