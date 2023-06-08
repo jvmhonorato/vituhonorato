@@ -5,7 +5,7 @@
 
 
 - 😄 Pronouns: he/him
-- 🌱 I’m currently learning Typescript | Nest.JS | Java | Angular
+- 🌱 I’m currently working on Typescript | Node.JS  | Nest.JS | Next.JS | React.JS |Angular
 - 👯 I’m looking to collaborate with any company that is willing to hire me
 
 <!--
