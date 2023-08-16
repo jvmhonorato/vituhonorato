@@ -4,11 +4,13 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mouse+Memoirs&size=50&pause=500&color=FFA500&vCenter=true&width=600&height=70&lines=Hi+there+,+i+am+Victor+Honorato;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 
+
+
+<!--
 - 😄 Pronouns: he/him
 - 🌱 I’m currently working on Typescript | Node.JS  | Nest.JS | Next.JS | React.JS | Angular | Mongo DB | PostgreSQL
 - 👯 I’m looking to collaborate with any company that is willing to hire me
 
-<!--
 **vituhonorato/vituhonorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
