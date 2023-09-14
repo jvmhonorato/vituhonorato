@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="center" alt="jvmh-ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  <img align="center" alt="jvmh-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
  <img align="center" alt="jvmh-rust" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"  />
- <img align="center" alt="jvmh-yew"    height="30" width="30"  src="https://yew.rs/img/logo.png" />
+
  <img align="center" alt="jvmh-solid.js" height="30" width="40" src="https://github.com/vituhonorato/vituhonorato/assets/101150943/4707cb92-56b1-4590-8efb-b54b0b8dabd7"  />
 <img align="center" alt="jvmh-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" alt="jvmh-next" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"  />
